@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Medi-Care/static/css/main.85c45c76.css",
+    "main.js": "/Medi-Care/static/js/main.101dbf67.js",
+    "static/media/image.png": "/Medi-Care/static/media/image.b2a1800e2175e7cd32e0.png",
+    "index.html": "/Medi-Care/index.html",
+    "main.85c45c76.css.map": "/Medi-Care/static/css/main.85c45c76.css.map",
+    "main.101dbf67.js.map": "/Medi-Care/static/js/main.101dbf67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85c45c76.css",
+    "static/js/main.101dbf67.js"
+  ]
+}
